@@ -1,6 +1,23 @@
 ---
 layout: default
 ---
+
+<style>
+figure {
+border: 1px #cccccc solid;
+padding: 4px;
+margin: auto;
+}
+
+figcaption {
+background-color: black;
+color: white;
+font-style: italic;
+padding: 2px;
+text-align: center;
+}
+</style>
+
 <article>
 
     <header>
@@ -10,7 +27,14 @@ layout: default
     <hr>
 
     <section>
-        <div><img src="{{ page.picture }}" alt ="{{ page.picture_alt }}" align="right" width="512" /></div>
+        <div>
+            <figure>
+                <img src="{{ page.picture }}" alt ="{{ page.picture_alt }}" align="right" />
+                <figcaption>Foo foo foo foo foo foo foo foo foo.</figcaption>
+        </figure>
+        </div>
+    </section>
+    <section>
         <div>{{ content }}</div>
     </section>
 

@@ -1,8 +1,8 @@
 ---
 layout: picture_page_right
 title: Welcome
-picture: images/color_selfie_720.png
-picture_alt: Photo of Ravi Jonnal
+picture: images/ao_oct_slo.gif
+picture_alt: Co-extensive AO-OCT and AO-SLO scans
 ---
 
 I am a neuroscientist and engineer who studies the human retina by developing new ways to image it and make inferences about its structure and function.
