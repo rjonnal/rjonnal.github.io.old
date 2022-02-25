@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://vsri.ucdavis.edu"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Vision Science and Advanced Retinal Imaging Laboratory</title>
+ <link>http://vsri.ucdavis.edu</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Lab Scrapbook</title>
+ <link>http://vsri.ucdavis.edu/gallery/lab</link>
+ <description>&lt;p&gt;Lab Scrapbook&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;img height=&quot;170&quot; width=&quot;170&quot; src=&quot;/sites/8081.repro-test.ucdavis.edu/files/fovea2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+</description>
+ <pubDate>Wed, 04 Feb 2009 20:44:57 +0000</pubDate>
+ <dc:creator>vsri</dc:creator>
+ <guid isPermaLink="false">27 at http://vsri.ucdavis.edu</guid>
+</item>
+<item>
+ <title>Retinal Images</title>
+ <link>http://vsri.ucdavis.edu/gallery/retinal</link>
+ <description>&lt;p&gt;Retinal Images&lt;/p&gt;
+</description>
+ <pubDate>Wed, 04 Feb 2009 20:44:15 +0000</pubDate>
+ <dc:creator>vsri</dc:creator>
+ <guid isPermaLink="false">26 at http://vsri.ucdavis.edu</guid>
+</item>
+<item>
+ <title>Illusory Phenomena</title>
+ <link>http://vsri.ucdavis.edu/gallery/illusory</link>
+ <description>&lt;p&gt;Illusory Phenomena&lt;/p&gt;
+</description>
+ <pubDate>Wed, 04 Feb 2009 20:32:58 +0000</pubDate>
+ <dc:creator>vsri</dc:creator>
+ <guid isPermaLink="false">25 at http://vsri.ucdavis.edu</guid>
+</item>
+</channel>
+</rss>

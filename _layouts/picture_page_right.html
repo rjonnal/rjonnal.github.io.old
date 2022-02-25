@@ -1,0 +1,36 @@
+---
+layout: default
+---
+
+<style>
+ figure {
+     background: #fff;
+     display: block;
+     float: right;
+     padding: 20px;
+     margin: 0 0px 0px 0;
+     text-align: center;
+ }
+
+ figcaption {
+     background: #fff;
+     display: block;
+     padding: 10px;
+ }
+</style>
+
+    <header>
+        <h1>{{ page.title | escape }}</h1>
+    </header>
+
+    <hr>
+
+    <div align="justify">
+        <section>
+        <figure>
+            <img src="{{ page.picture }}" width="{{ page.picture_width }}" />
+            <figcaption>{{ page.picture_caption }}</figcaption>
+        </figure>
+        {{ content }}
+        </section>
+    </div>
