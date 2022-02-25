@@ -4,35 +4,33 @@ layout: default
 
 <style>
  figure {
-     background: #b2b2b2;
+     background: #fff;
      display: block;
      float: left;
      padding: 10px;
-     margin: 0 10px 10px 0;
+     margin: 0 0px 0px 0;
      text-align: center;
  }
 
  figcaption {
      background: #fff;
      display: block;
-     padding: 5px;
+     padding: 10px;
  }
 </style>
 
-<article>
+<header>
+    <h1>{{ page.title | escape }}</h1>
+</header>
 
-    <header>
-        <h1>{{ page.title | escape }}</h1>
-    </header>
+<hr>
 
-    <hr>
-
-    <div>
+<div align="justify">
+    <section>
         <figure>
             <img src="{{ page.picture }}" width="{{ page.picture_width }}" />
-            <figcaption>Food food food food foo foo foo foo foo.</figcaption>
+            <figcaption>{{ page.picture_caption | escape }}</figcaption>
         </figure>
         {{ content }}
-    </div>
-
-</article>
+    </section>
+</div>

@@ -28,8 +28,10 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
 
+
 # A list of the pages to display in the navigation bar
 header_pages:
+  - optoretinography.md
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -40,4 +42,3 @@ exclude:
   - node_modules
   - update_boostrap.sh
 
-theme: jekyll-theme-hacker
