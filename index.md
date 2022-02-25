@@ -1,6 +1,6 @@
 ---
 layout: picture_page_right
-title: Welcome
+title: Welcome!
 picture: images/ao_oct_slo.gif
 picture_width: 600px
 picture_caption: Co-extensive AO-SLO and AO-OCT scans of the human photoreceptor mosaic.

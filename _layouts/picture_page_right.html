@@ -7,7 +7,7 @@ layout: default
      background: #fff;
      display: block;
      float: right;
-     padding: 20px;
+     padding: 10px;
      margin: 0 0px 0px 0;
      text-align: center;
  }
@@ -19,18 +19,18 @@ layout: default
  }
 </style>
 
-    <header>
-        <h1>{{ page.title | escape }}</h1>
-    </header>
+<header>
+    <h1>{{ page.title | escape }}</h1>
+</header>
 
-    <hr>
+<hr>
 
-    <div align="justify">
-        <section>
+<div align="justify">
+    <section>
         <figure>
             <img src="{{ page.picture }}" width="{{ page.picture_width }}" />
-            <figcaption>{{ page.picture_caption }}</figcaption>
+            <figcaption>{{ page.picture_caption | escape }}</figcaption>
         </figure>
         {{ content }}
-        </section>
-    </div>
+    </section>
+</div>
