@@ -1,19 +1,11 @@
+# Allan Lab Website
 
-# Boostrap 4 Github Pages
+This is the website of our academic research group at Leiden University.
 
-A [Bootstrap 4](https://getbootstrap.com/) template project for [Github Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/).
+This website is powered by Jekyll and some Bootstrap, Bootwatch. We tried to make it simple yet adaptable, so that it is easy for you to use it as a template. Plese feel free to copy and modify for your own purposes.  You don't have to link to us or mention us (but of course we appreciate it).
 
-* A full Bootstrap 4 theme usable both on Github Pages and with a standalone Jekyll.
-* Recompiles Bootstrap from SCSS files, which allows to customize Bootstrap's variables and use Bootstrap themes.
-* Full support of Bootstrap's JavaScript plugins.
-* Supports all features of Github Pages and Jekyll.
+Go to *aboutwebsite.md*  to learn how to copy and modidy this page for your purpose. 
 
-[See the website for demonstration and documentation](https://nicolas-van.github.io/bootstrap-4-github-pages/).
 
-## Contribution
+Copyright Allan Lab. Code released under the MIT License.
 
-[See the contribution guide.](./CONTRIBUTING.md)
-
-## License
-
-[See the license file.](./LICENSE.md)
